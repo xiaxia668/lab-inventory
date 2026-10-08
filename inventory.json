@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "exportTime": "2026-10-08T11:26:24.026Z",
+  "exportTime": "2026-10-08T11:55:55.880Z",
   "exportBy": "xiaxia",
   "components": [
     {
-      "id": 1,
+      "id": 2,
       "type": "电子元件",
       "category": "电阻",
       "name": "100k",
@@ -13,7 +13,20 @@
       "unit": "个",
       "location": "",
       "notes": "",
-      "last_updated": "2026-10-08 10:09:05",
+      "last_updated": "2026-10-08 11:55:42",
+      "updated_by": "xiaxia"
+    },
+    {
+      "id": 3,
+      "type": "电子元件",
+      "category": "电阻",
+      "name": "10k",
+      "specification": "0402",
+      "quantity": 100,
+      "unit": "个",
+      "location": "",
+      "notes": "",
+      "last_updated": "2026-10-08 11:55:52",
       "updated_by": "xiaxia"
     }
   ]
