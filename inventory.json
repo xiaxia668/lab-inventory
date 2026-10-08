@@ -1,10 +1,23 @@
 {
   "version": "1.0",
-  "exportTime": "2026-10-08T13:28:25.207Z",
+  "exportTime": "2026-10-08T13:33:34.430Z",
   "exportBy": "xiaxia",
   "components": [
     {
-      "id": 11,
+      "id": 15,
+      "type": "电子元件",
+      "category": "开关",
+      "name": "100nf",
+      "specification": "0402",
+      "quantity": 100,
+      "unit": "个",
+      "location": "",
+      "notes": "",
+      "last_updated": "2026-10-08 13:33:29",
+      "updated_by": "xiaxia"
+    },
+    {
+      "id": 13,
       "type": "电子元件",
       "category": "电容",
       "name": "100nf",
@@ -13,11 +26,11 @@
       "unit": "个",
       "location": "",
       "notes": "",
-      "last_updated": "2026-10-08 13:15:42",
+      "last_updated": "2026-10-08 13:32:22",
       "updated_by": "Git同步"
     },
     {
-      "id": 12,
+      "id": 14,
       "type": "电子元件",
       "category": "电阻",
       "name": "100k",
@@ -26,7 +39,7 @@
       "unit": "个",
       "location": "",
       "notes": "",
-      "last_updated": "2026-10-08 13:15:42",
+      "last_updated": "2026-10-08 13:32:22",
       "updated_by": "Git同步"
     }
   ]
