@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "exportTime": "2026-10-08T12:37:01.189Z",
+  "exportTime": "2026-10-08T12:49:42.099Z",
   "exportBy": "xiaxia",
   "components": [
     {
-      "id": 4,
+      "id": 5,
       "type": "电子元件",
       "category": "电容",
       "name": "100nf",
@@ -13,11 +13,11 @@
       "unit": "个",
       "location": "",
       "notes": "",
-      "last_updated": "2026-10-08 12:36:55",
-      "updated_by": "xiaxia"
+      "last_updated": "2026-10-08 12:47:30",
+      "updated_by": "Git同步"
     },
     {
-      "id": 3,
+      "id": 6,
       "type": "电子元件",
       "category": "电阻",
       "name": "100k",
@@ -26,7 +26,7 @@
       "unit": "个",
       "location": "",
       "notes": "",
-      "last_updated": "2026-10-08 12:23:48",
+      "last_updated": "2026-10-08 12:47:30",
       "updated_by": "Git同步"
     }
   ]
