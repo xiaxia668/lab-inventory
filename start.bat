@@ -1,17 +1,24 @@
 @echo off
+title Lab Inventory Management System
 cd /d %~dp0
 
+echo Checking Node.js installation...
 where node >nul 2>&1
 if %errorlevel% neq 0 (
+    cls
     echo.
     echo ========================================
-    echo   ERROR: Node.js not installed
+    echo   ERROR: Node.js not installed!
     echo ========================================
     echo.
-    echo Please install Node.js first:
+    echo Node.js is required to run this system.
+    echo.
+    echo Please download and install from:
     echo https://nodejs.org/
     echo.
-    echo Recommended: v18.x LTS or higher
+    echo Recommended version: v18.x LTS or higher
+    echo.
+    echo After installation, restart this script.
     echo.
     pause
     exit /b 1
