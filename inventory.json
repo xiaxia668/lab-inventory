@@ -1,10 +1,23 @@
 {
   "version": "1.0",
-  "exportTime": "2026-10-08T12:23:29.724Z",
+  "exportTime": "2026-10-08T12:37:01.189Z",
   "exportBy": "xiaxia",
   "components": [
     {
-      "id": 2,
+      "id": 4,
+      "type": "电子元件",
+      "category": "电容",
+      "name": "100nf",
+      "specification": "0402",
+      "quantity": 100,
+      "unit": "个",
+      "location": "",
+      "notes": "",
+      "last_updated": "2026-10-08 12:36:55",
+      "updated_by": "xiaxia"
+    },
+    {
+      "id": 3,
       "type": "电子元件",
       "category": "电阻",
       "name": "100k",
@@ -13,7 +26,7 @@
       "unit": "个",
       "location": "",
       "notes": "",
-      "last_updated": "2026-10-08 11:26:42",
+      "last_updated": "2026-10-08 12:23:48",
       "updated_by": "Git同步"
     }
   ]
