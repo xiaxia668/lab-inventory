@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportTime": "2026-10-08T12:00:07.501Z",
+  "exportTime": "2026-10-08T12:17:51.290Z",
   "exportBy": "xiaxia",
   "components": [
     {
@@ -13,21 +13,8 @@
       "unit": "个",
       "location": "",
       "notes": "",
-      "last_updated": "2026-10-08 11:55:42",
-      "updated_by": "xiaxia"
-    },
-    {
-      "id": 3,
-      "type": "电子元件",
-      "category": "电阻",
-      "name": "10k",
-      "specification": "0402",
-      "quantity": 100,
-      "unit": "个",
-      "location": "",
-      "notes": "",
-      "last_updated": "2026-10-08 11:55:52",
-      "updated_by": "xiaxia"
+      "last_updated": "2026-10-08 11:26:42",
+      "updated_by": "Git同步"
     }
   ]
 }
